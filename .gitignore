@@ -1,0 +1,52 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Data (DO NOT PUSH)
+data/
+data_aligned/
+processed_patches/
+processed_patches_2/
+
+# Outputs / experiments
+cnn_runs/
+batch_outputs/
+debug_vis/
+runs/
+outputs/
+
+# Models
+*.pth
+*.pt
+*.ckpt
+
+# Numpy / data artifacts
+*.npz
+*.npy
+*.csv
+
+# Archives
+*.zip
+*.tar
+*.gz
+
+# Logs
+*.log
