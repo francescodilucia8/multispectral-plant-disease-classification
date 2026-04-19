@@ -89,4 +89,3 @@ src/models/            CNN and transfer learning models
 src/training/          training and evaluation scripts
 src/visualization/     inspection and debugging tools
 assets/                figures used in README
-configs/               experiment configurations
